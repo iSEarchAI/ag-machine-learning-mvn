@@ -1,7 +1,4 @@
 package goes.iga;
-import br.otimizes.isearchai.simulator.HumanSimulator;
-import br.otimizes.isearchai.simulator.InstanceReader;
-import br.otimizes.isearchai.simulator.ResultsWriter;
 
 import java.io.File;
 import java.io.FileWriter;
