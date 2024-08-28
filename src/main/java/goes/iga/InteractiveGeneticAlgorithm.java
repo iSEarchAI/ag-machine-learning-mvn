@@ -1,8 +1,8 @@
 package goes.iga;
 
-import br.otimizes.isearchai.simulator.DataSet;
-import br.otimizes.isearchai.simulator.HumanSimulator;
-import br.otimizes.isearchai.simulator.InstanceReader;
+import br.otimizes.isearchai.learning.simulator.DataSet;
+import br.otimizes.isearchai.learning.simulator.HumanSimulator;
+import br.otimizes.isearchai.learning.simulator.InstanceReader;
 import weka.classifiers.Classifier;
 import weka.classifiers.functions.MultilayerPerceptron;
 

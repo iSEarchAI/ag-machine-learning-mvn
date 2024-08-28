@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="isearchai" />
         <module name="nautilus-framework-plugin-nrp" />
+        <module name="iga" />
       </profile>
     </annotationProcessing>
   </component>
